@@ -1,0 +1,3 @@
+wgan on swirly images
+clip value 0.1
+n critic 6
